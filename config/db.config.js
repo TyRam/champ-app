@@ -1,5 +1,5 @@
 module.exports = {
-    HOST: process.env.HOST,
-    PORT: process.env.PORT,
-    DB: process.env.DB
-};
+    HOST: "localhost",
+    PORT: 27017,
+    DB: "db_champ_app"
+  };
